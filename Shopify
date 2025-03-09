@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://burnjaro.myshopify.com/</loc>
+    <video:video>
+      <video:title>Burnjaro Capsules, Zepbound, Wegovy and Their Superior Progenifix</video:title>
+      <video:description>An in-depth look at Burnjaro Capsules, Zepbound, Wegovy, and how they compare to Progenifix.</video:description>
+      <video:thumbnail_loc>https://burnjaro.myshopify.com/thumbnail.jpg</video:thumbnail_loc>
+      <video:content_loc>https://www.dailymotion.com/video/x9ftp6i</video:content_loc>
+      <video:embed_loc>https://www.dailymotion.com/embed/video/x9ftp6i</video:embed_loc>
+      <video:publication_date>2025-03-09</video:publication_date>
+      <video:duration>120</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+
+</urlset>
